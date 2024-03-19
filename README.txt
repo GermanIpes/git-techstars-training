@@ -5,5 +5,9 @@ Anakin Skywalker: [shouts] I HATE YOU!
 [struggles to climb up the riverbank]
 Obi-Wan Kenobi: You were my brother, Anakin! I loved you!
 [the heat from the lava ignites Darth Vader's clothes; he screams in agony as he burns]
+<<<<<<< HEAD
 aloooooo
 
+=======
+dwhfA
+>>>>>>> 2f2f7de908040e2e33b5a741943a6ec106c257ee
