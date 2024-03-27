@@ -8,8 +8,16 @@ Obi-Wan Kenobi: You were my brother, Anakin! I loved you!
 aloooooo
 dwhfA
 
+<<<<<<< HEAD
 marcelo marcelo 
 
 marcelooooo te amo bebeee
 
 habia una vez un gato llamado marcelo
+=======
+
+
+ger
+lu
+comandamos
+>>>>>>> 0f956531aeaa53a22e2f538ad1c55ba75e553b29
