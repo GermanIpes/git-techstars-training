@@ -8,3 +8,6 @@ Obi-Wan Kenobi: You were my brother, Anakin! I loved you!
 aloooooo
 dwhfA
 
+holiiiii pelado git
+aguante el manya xdxd
+del palacio vengoooo
