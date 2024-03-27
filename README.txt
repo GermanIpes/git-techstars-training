@@ -8,8 +8,14 @@ Obi-Wan Kenobi: You were my brother, Anakin! I loved you!
 aloooooo
 dwhfA
 
+<<<<<<< HEAD
 
 
 ger
 lu
 comandamos
+=======
+holiiiii pelado git
+aguante el manya xdxd
+del palacio vengoooo
+>>>>>>> 58b4f5e (This is the squash of three commits.)
