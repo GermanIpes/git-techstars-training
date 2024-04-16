@@ -18,6 +18,7 @@ ger
 lu
 comandamos
 
+<<<<<<< HEAD
 asdasdasdasdasd
 alo
 
@@ -35,3 +36,4 @@ test
 test
 test
 test
+BASTAAAAA
