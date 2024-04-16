@@ -8,11 +8,8 @@ Obi-Wan Kenobi: You were my brother, Anakin! I loved you!
 aloooooo
 dwhfA
 
-agreguen lo que quieran
 
-lo agrego 2 veces
 
-ATENAS Y PEÑAROL
 
 ger
 lu
@@ -30,8 +27,12 @@ tercer cambio
 aaaaaaaa
 
 
-test
-test
-test
-test
-test
+bueno en que anda la banda
+
+se actualiza 
+
+holuuuu
+
+bueno ahora si se pica 
+
+ahora siiiii que quedo re lindo 
