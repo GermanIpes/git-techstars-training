@@ -14,7 +14,6 @@ lo agrego 2 veces
 
 ATENAS Y PEÑAROL
 
-
 ger
 lu
 comandamos
