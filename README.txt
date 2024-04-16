@@ -30,8 +30,12 @@ tercer cambio
 aaaaaaaa
 
 
+<<<<<<< HEAD
 test
 test
 test
 test
 test
+=======
+allooo
+>>>>>>> adad5ce (aaaaaa)
