@@ -18,8 +18,7 @@ ger
 lu
 comandamos
 
-asdasdasdasdasd
-alo
+basta loco
 
 
 segundo cambio
