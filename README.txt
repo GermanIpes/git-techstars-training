@@ -12,6 +12,8 @@ agreguen lo que quieran
 lo agrego 2 veces
 
 ATENAS Y PEÑAROL
+PEÑAROL Y ATENAS
+MODIFICANDO EL README PARA QUE SE SEPA QUIEN MANDA EN URUGUAY
 
 ger
 lu
