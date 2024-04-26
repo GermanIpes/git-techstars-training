@@ -30,12 +30,11 @@ tercer cambio
 aaaaaaaa
 
 
-<<<<<<< HEAD
 test
 test
 test
 test
 test
-=======
 allooo
->>>>>>> adad5ce (aaaaaa)
+
+bueno ahora pude hacer un -quit del rebase y me dejo salir, estaba frustrada
